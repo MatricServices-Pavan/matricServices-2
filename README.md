@@ -24,7 +24,7 @@ This backend supports the Matric Services frontend platform and manages:
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/matric-services-backend.git
+git clone https://github.com/your-username/matricServices-2.git
 cd matric-services-backend
 
 
